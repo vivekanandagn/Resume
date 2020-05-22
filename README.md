@@ -14,4 +14,7 @@ MTech|2
 PhD|4
 
 ### Certifications
-![Certificate](/IMG_3264.jpg)
+![Certificate](/IMG_3264.JPG)
+
+###Publications
+[First Publication](https://link.springer.com/article/10.1007/s11042-019-7260-x)
