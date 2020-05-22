@@ -14,3 +14,4 @@ MTech|2
 PhD|4
 
 ### Certifications
+![Certificate](/IMG_3264.jpg)
